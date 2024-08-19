@@ -1,0 +1,9 @@
+tools/
+.vscode/
+dist/
+bootloader/build/
+bootloader/obj/
+kernel/build/
+kernel/obj/
+dist/
+iso-files/
